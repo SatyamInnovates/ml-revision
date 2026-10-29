@@ -1,0 +1,8 @@
+There isn't that much maths in these topics
+
+you need basic maths like:
+
+-Mean
+-Median
+-standard deviation
+
